@@ -1,0 +1,248 @@
+body {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    max-height: 98vw;
+}
+
+.image {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    width: 100vw;
+    height: 50px;
+    padding: 10px;
+    top: 0;
+    position: sticky;
+    box-shadow: 0px 2px 7px 0px rgba(0, 0, 0, 0.75);
+}
+
+.logo2 {
+    position: absolute;
+    width: 130px;
+    top: -2px;
+}
+
+.nav2 {
+    position: absolute;
+    width: 648px;
+    left: 423px;
+    top: 21px;
+}
+
+.nav3 {
+    height: 31px;
+}
+
+.location2 {
+    position: absolute;
+    width: 35px;
+    left: 178px;
+    top: 17px;
+}
+
+.tag {
+    position: absolute;
+    color: white;
+    font-size: 14px;
+    top: 3px;
+    left: 90px;
+}
+
+.cart2 {
+    position: absolute;
+    width: 59px;
+    right: 77px;
+    top: 2px;
+}
+
+.country {
+    position: absolute;
+    right: 383px;
+    top: 26px;
+}
+
+.label_country {
+    position: absolute;
+    right: 500px;
+    color: white;
+    top: 26px;
+}
+
+.flag {
+    position: absolute;
+    width: 44px;
+    right: 299px;
+    top: 20px;
+}
+
+.language {
+    position: absolute;
+    right: 200px;
+    top: 23px;
+}
+
+/* ============================================================================================================================================ */
+.feed1 {
+    position: absolute;
+    left: 282px;
+    font-size: 30px;
+}
+
+/* .form {
+    background-color: white;
+    margin: auto;
+    margin-bottom: auto;
+    margin-bottom: 30px;
+    width: 63vw;
+    height: 578px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 2px;
+    padding: 10px;
+    overflow: hidden;
+    top: 160px;
+    position:absolute;
+    left: 237px;
+} */
+
+.sc1 {
+    position: absolute;
+    width: 101vw;
+    top: 157px;
+    left: -10px;
+}
+
+.p1 {
+    position: absolute;
+    top: 493px;
+    left: 554px;
+    font-size: 32px;
+}
+
+.sc2 {
+    position: absolute;
+    top: 315px;
+    left: -7px;
+    font-size: 32px;
+}
+
+.l1 {
+    position: absolute;
+    top: 571px;
+    left: 146px;
+    font-size: 27px;
+}
+
+.l2 {
+    position: absolute;
+    top: 630px;
+    left: 146px;
+    font-size: 27px;
+}
+
+.l3 {
+    position: absolute;
+    top: 571px;
+    right: 173px;
+    font-size: 27px;
+}
+
+.l4 {
+    position: absolute;
+    top: 630px;
+    right: 173px;
+    font-size: 27px;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------------- */
+.p2 {
+    position: absolute;
+    top: 722px;
+    left: 73px;
+    font-size: 27px;
+}
+
+.radioo {
+    position: absolute;
+    top: 783px;
+    left: 70px;
+    font-size: 27px;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------------- */
+.p3 {
+    position: absolute;
+    top: 945px;
+    left: 73px;
+    font-size: 27px;
+}
+
+.radioo2 {
+    position: absolute;
+    top: 1006px;
+    left: 70px;
+    font-size: 27px;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------------- */
+.p4 {
+    position: absolute;
+    top: 1168px;
+    left: 73px;
+    font-size: 27px;
+}
+
+.radioo3 {
+    position: absolute;
+    top: 1231px;
+    left: 70px;
+    font-size: 27px;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------------- */
+.p5 {
+    position: absolute;
+    top: 1299px;
+    left: 73px;
+    font-size: 27px;
+}
+
+.radioo4 {
+    position: absolute;
+    top: 1362px;
+    left: 70px;
+    font-size: 27px;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------------- */
+.c2 {
+    position: absolute;
+    top: 1433px;
+    left: 70px;
+    font-size: 27px;
+}
+
+.reason {
+    position: absolute;
+    top: 1498px;
+    left: 70px;
+    font-size: 27px;
+    width: 890px;
+    height: 234px;
+}
+
+.back2 {
+    background-color: slategrey;
+    position: absolute;
+    top: 1821px;
+    width: 100vw;
+    height: 80px;
+}
+
+.s1 {
+    position: absolute;
+    width: 156px;
+    height: 55px;
+    left: 645px;
+    top: 12px;
+}

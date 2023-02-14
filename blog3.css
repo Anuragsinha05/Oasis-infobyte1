@@ -1,0 +1,237 @@
+body {
+    margin: 0;
+    padding: 0;    
+}
+
+.image {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    width: 100vw;
+    height: 50px;
+    padding: 10px;
+    top: 0;
+    position: static;
+    box-shadow: 0px 2px 7px 0px rgba(0, 0, 0, 0.75);
+}
+
+.logo2 {
+    position: absolute;
+    width: 130px;
+    top: -2px;
+}
+
+.nav2 {
+    position: absolute;
+    width: 648px;
+    left: 423px;
+    top: 21px;
+}
+
+.nav3 {
+    height: 31px;
+}
+
+.location2 {
+    position: absolute;
+    width: 35px;
+    left: 178px;
+    top: 17px;
+}
+
+.tag {
+    position: absolute;
+    color: white;
+    font-size: 14px;
+    top: 3px;
+    left: 90px;
+}
+
+.cart2 {
+    position: absolute;
+    width: 59px;
+    right: 77px;
+    top: 2px;
+}
+
+.country {
+    position: absolute;
+    right: 383px;
+    top: 26px;
+}
+
+.label_country {
+    position: absolute;
+    right: 500px;
+    color: white;
+    top: 26px;
+}
+
+.flag {
+    position: absolute;
+    width: 44px;
+    right: 299px;
+    top: 20px;
+}
+
+.language {
+    position: absolute;
+    right: 200px;
+    top: 23px;
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------- */
+.feedback {
+    font-size: 35px;
+    font-style: italic;
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------- */
+.f1 {
+    position: absolute;
+    text-align: center;
+    left: 537px;
+    font-size: 16px;
+}
+
+.f2 {
+    position: absolute;
+    top: 225px;
+    left: 612px;
+    font-size: 18px;
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------- */
+.b1 {
+    position: absolute;
+    top: 324px;
+    left: 403px;
+}
+
+.ik1 {
+    position: absolute;
+    width: 67px;
+    left: 425px;
+    top: 309px;
+}
+
+.b2 {
+    position: absolute;
+    top: 324px;
+    left: 521px;
+}
+
+.ik2 {
+    position: absolute;
+    width: 81px;
+    left: 543px;
+    top: 303px;
+}
+
+.b3 {
+    position: absolute;
+    top: 324px;
+    left: 648px;
+}
+
+.ik3 {
+    position: absolute;
+    width: 67px;
+    left: 673px;
+    top: 309px;
+}
+
+.b4 {
+    position: absolute;
+    top: 324px;
+    left: 772px;
+}
+
+.ik4 {
+    position: absolute;
+    width: 68px;
+    left: 794px;
+    top: 310px;
+}
+
+.b5 {
+    position: absolute;
+    top: 324px;
+    left: 896px;
+}
+
+.ik5 {
+    position: absolute;
+    width: 63px;
+    left: 923px;
+    top: 314px;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------- */
+.c1 {
+    position: absolute;
+    left: 644px;
+    font-size: 21px;
+}
+
+.ad1 {
+    position: absolute;
+    top: 554px;
+    left: 416px;
+}
+
+.ip1 {
+    position: absolute;
+    width: 123px;
+    top: 523px;
+    left: 463px;
+}
+
+.ad2 {
+    position: absolute;
+    top: 554px;
+    left: 661px;
+}
+
+.ip2 {
+    position: absolute;
+    width: 129px;
+    top: 527px;
+    left: 687px;
+}
+
+.ad3 {
+    position: absolute;
+    top: 554px;
+    left: 867px;
+}
+
+.ip3 {
+    position: absolute;
+    width: 103px;
+    top: 527px;
+    left: 922px;
+    height: 73px;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------- */
+.c2 {
+    position: absolute;
+    left: 644px;
+    font-size: 21px;
+}
+
+.reason {
+    position: absolute;
+    left: 199px;
+    top: 680px;
+    width: 1145px;
+}
+
+.s1 {
+    position: absolute;
+    left: 733px;
+    top: 903px;
+    width: 126px;
+    height: 45px;
+}
